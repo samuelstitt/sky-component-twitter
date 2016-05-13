@@ -1,0 +1,6 @@
+/*import postcss transformers*/
+@use precss;
+
+/*import component css*/
+@import "component-skin.css";
+@import "component.css";
